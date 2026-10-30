@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tomonori",
  "yomi": "きのとものりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "紀友則",
+  "desc": "『古今和歌集』撰者の一人、紀友則の家集。寛平の御時の后宮の歌合の歌など、古今集と重なる歌が多い小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -874,6 +879,6 @@
   "poems": 74,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
